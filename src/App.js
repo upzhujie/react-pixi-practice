@@ -1,6 +1,7 @@
 import React from "react";
 import "./style.css";
-
+import PIXI from 'pixi.js'
+console.log('pixi - ', PIXI)
 export default function App() {
   return (
     <div>
